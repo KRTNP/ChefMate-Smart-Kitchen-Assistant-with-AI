@@ -23,15 +23,14 @@ ChefMate is a smart kitchen assistant that leverages the power of AI to help you
 *   **Ollama:** You'll need to have Ollama installed and running locally. Follow the instructions on the [Ollama website](https://ollama.com/) for installation.
 * **Supported models:** You will need to pull a model to use with ollama, like: `ollama pull llama3.2`
 *   **Node.js:** (v14 or higher) for running the frontend and potentially any backend components.
-* **Env variables:** (see [Environment Variables](#environment-variables))
+* **Env variables:** (see [Environment Variables](#.env))
 
 ### Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/ChefMate.git
+    git clone https://github.com/krtn/ChefMate-Smart-Kitchen-Assistant-with-AI.git
     ```
-    (Replace `your-username` with your actual GitHub username.)
 
 2.  **Navigate to the project directory:**
     ```bash
@@ -62,7 +61,6 @@ ChefMate is a smart kitchen assistant that leverages the power of AI to help you
     ```bash
     npm run dev
     ```
-    (This command will be updated once the frontend part is ready)
 
 ### Using the AI Chatbot
 
