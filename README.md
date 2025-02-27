@@ -34,7 +34,7 @@ ChefMate is a smart kitchen assistant that leverages the power of AI to help you
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd ChefMate
+    cd ChefMate-Smart-Kitchen-Assistant-with-AI
     ```
 
 3.  **Install dependencies:** (if there are dependencies, otherwise remove this)
